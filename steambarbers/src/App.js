@@ -11,7 +11,7 @@ function App() {
         <Link to = "/"><img src = {logo} alt = "Logo" height = "98" width = "125"  /></Link>
         <ul>
           <li>
-            <Link to = "/services">Services</Link>
+            <Link className = 'anchor-link' to = "/services">Services</Link>
           </li>
         </ul>
       </nav>
