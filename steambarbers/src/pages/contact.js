@@ -27,7 +27,6 @@ export function Contact(){
                     <button className="contact-btn" onClick={handleSubmit}>submit</button>
                 </div>
             </div>
-    
         </div>
     )
 }
