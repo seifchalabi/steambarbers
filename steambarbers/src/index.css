@@ -41,3 +41,8 @@ body {
 .nav li:hover {
   background-color: #393E46;
 }
+
+.nav-img{
+  height :98;
+  width:125px;
+}
