@@ -24,3 +24,7 @@ body {
   align-items: center;
   gap: 2rem;
 }
+.nav-img{
+  height :98;
+  width:125px;
+}
