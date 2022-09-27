@@ -21,6 +21,43 @@ export function Home()
                 for the best experience, with great music and friendly conversations with our customers, we make our community.
             </p>
         </div>
+        <div className="home-shop-info-section">
+            <div>
+                <h1>
+                    Hours
+                </h1>
+                
+                <p>
+                    Tues-Fri 9:00am-6:00pm
+                    <br />
+                    Sat 9:00am-3:00pm
+                    <br />
+                    Closed Sun & Mon
+                </p>
+            </div>
+            <div>
+                <h1>
+                    Contact info
+                </h1>
+                
+                <p>
+                    +12 3456789
+                    <br />
+                    steambarbers@gmail.com
+                </p>
+            </div>
+            <div>
+                <h1>
+                    Location
+                </h1>
+                
+                <p>
+                    1234 istanbul
+                    <br />
+                    Turkey
+                </p>
+            </div>
+        </div>
     </>
     )
 }
