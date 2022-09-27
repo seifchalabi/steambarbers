@@ -25,11 +25,6 @@ body {
   gap: 2rem;
 }
 
-.anchor-link {
-  color: inherit;
-  text-decoration: none;
-}
-
 .nav ul {
   padding: 0;
   margin: 0;
@@ -38,8 +33,21 @@ body {
   gap: 1rem;
 }
 
+.anchor-link {
+  color: inherit;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  padding: .25rem;
+}
+
 .nav li:hover {
-  background-color: #393E46;
+  border-bottom: 3px solid #393E46;
+}
+
+.no-text-effect:hover {
+  text-decoration: none;
+  color: #EEEEEE;
 }
 
 .nav-img{
