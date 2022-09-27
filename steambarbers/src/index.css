@@ -41,7 +41,11 @@ body {
   padding: .25rem;
 }
 
-.nav li:hover {
+.active {
+  border-bottom: 3px solid #393E46;
+}
+
+.anchor-link:hover:not(.active){
   border-bottom: 3px solid #393E46;
 }
 
