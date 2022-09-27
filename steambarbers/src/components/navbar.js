@@ -4,7 +4,7 @@ import logo from "../images/logo.png";
 export function Navbar(){
     return(
         <nav className='nav'>
-            <Link to = "/"><img className="nav-img" src = {logo} alt = "Logo" height = "98" width = "125"  /></Link>
+            <Link to = "/"><img className="nav-img" src = {logo} alt = "Logo" /></Link>
             <ul>
             <li>
                 <Link to = "/services">Services</Link>

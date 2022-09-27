@@ -28,3 +28,17 @@ body {
   height :98;
   width:125px;
 }
+.contact-submit{
+  font-family: inherit;
+  padding: 9px 19px;
+  background-color: #a27b5c;
+  border-radius: 3px;
+  border: 0.5px solid black;
+  font-weight: 500;
+}
+.contact{
+  background-color: #393E46 ;
+  height: 1000px;
+  width: 100%;
+  color: #EEEEEE;
+}
