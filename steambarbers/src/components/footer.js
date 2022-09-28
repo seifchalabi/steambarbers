@@ -30,7 +30,7 @@ export function Footer(){
             <div className="footer-right">
                 <p className="footer-company-about">
                     <span>About the company</span>
-                    <strong>Steambarbers</strong> 
+                    <strong>Steambarbers </strong> 
                     is a barber shop located and founded in istanbul turkey 
                     where we offer amazing cuts for cheap prices
                 </p>

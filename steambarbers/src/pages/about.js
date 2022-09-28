@@ -1,4 +1,14 @@
 export function About()
 {
-    return <h1>About</h1>
+    return (
+        <>
+            <div className = "about-top-img">
+                <div className = "about-content-on-img">
+                    <p>
+                        Get to know our staff and barbers.
+                    </p>
+                </div>
+            </div>
+        </>
+    )
 }

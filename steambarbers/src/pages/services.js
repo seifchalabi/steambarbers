@@ -2,7 +2,13 @@ export function Services()
 {
     return (
         <>
-            <h1>Services</h1>
+            <div className = "services-top-img">
+                <div className = "services-content-on-img">
+                    <p>
+                        Check our menu.
+                    </p>
+                </div>
+            </div>
         </>
     )
 }
