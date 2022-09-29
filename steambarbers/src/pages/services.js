@@ -16,7 +16,6 @@ export function Services()
             </div>
             <div className="service-container">
                 <table>
-                    
                     <tr className="service-header">
                         <td><h1>Long Cut 60$</h1></td>
                         <td><h1>Beard Trim 25$</h1></td>
@@ -45,7 +44,11 @@ export function Services()
                 </table>
             </div>
             <div className="service-hot">
-                <h1 className="service-hot-header">hot cuts</h1>
+                <div className="service-menu">
+                    <h1 className="service-hot-header">hot cuts</h1>
+                    <br />
+                    <hr />
+                </div>
                 <table>
                     <tr className="service-header">
                         <td><h1>Classic Cut 20$</h1></td>
