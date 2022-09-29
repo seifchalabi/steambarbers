@@ -58,6 +58,14 @@ export function Home()
                 </p>
             </div>
         </div>
+        <div className = "home-cuts-section">
+            <h1>
+                The menu
+            </h1>
+            <br />
+            <hr />
+            <br />
+        </div>
     </>
     )
 }
