@@ -464,12 +464,13 @@ footer{
   margin: auto;
   margin-bottom: 30px;
   font-size: 1.2rem;
+  padding: 20px;
 }
 .service-menu{
   text-align: center;
   margin-top: 30px;
   margin-bottom: 50px;
-  font-size: 3rem
+  font-size: 3rem,
 }
 .service-menu h1{
   font-size: inherit;
