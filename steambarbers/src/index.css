@@ -483,3 +483,12 @@ footer{
   align-self: center;
   margin: auto;
 }
+
+.service-container-white{
+  background-color: #EEEEEE;
+}
+
+.service-menu-white {
+  background-color: #EEEEEE;
+  margin-bottom: 0;
+}
