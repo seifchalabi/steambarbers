@@ -11,6 +11,8 @@ export function Services()
             </div>
             <div className="service-menu">
                 <h1>Our menu</h1>
+                <br />
+                <hr />
             </div>
             <div className="service-container">
                 <table>
