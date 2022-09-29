@@ -470,6 +470,15 @@ footer{
 .service-menu h1{
   font-size: inherit;
 }
+
+.service-menu hr {
+  width: 75%;
+  border: 0;
+  border-top: 3px solid #393E46;
+  align-self: center;
+  margin: auto;
+}
+
 .service-hot{
   background-color: #EEEEEE;
   padding: 20px;
