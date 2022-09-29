@@ -16,25 +16,7 @@ export function Services()
             </div>
             <div className="service-container">
                 <table>
-                    <tr className="service-header">
-                        <td><h1>Classic Cut 20$</h1></td>
-                        <td><h1>Skin Fade 15$</h1></td>
-                    </tr>
-                    <tr className="service-data">
-                        <td><p>Relax while your barber achieves your tailored look. If you’re looking for a bald fade 
-                            or if your hair is currently longer than earlobe length please book from our other options.</p></td>
-                        <td><p>Also known as a bald fade or a zero fade, this service requires a little 
-                            extra time. Hair is faded from skin or “0” length to your desired length on top.</p></td>
-                    </tr>
-
-                    <tr className="service-header">
-                        <td><h1>Cut & Beard Trim 40$</h1></td>
-                        <td><h1> Skin Fade & Beard Trim 60$</h1></td>
-                    </tr>
-                    <tr className="service-data">
-                        <td><p>Combination of a classic cut and beard/mustache shaping.</p></td>
-                        <td><p>Combination of skin fade and beard/mustache shaping.</p></td>
-                    </tr>
+                    
                     <tr className="service-header">
                         <td><h1>Long Cut 60$</h1></td>
                         <td><h1>Beard Trim 25$</h1></td>
@@ -59,6 +41,30 @@ export function Services()
                     <tr className="service-data">
                         <td><p>Ask for a buzz cut if you're looking for a no-nonsense low maintenance look at a uniform length as close as you'd like.</p></td>
                         <td><p>Combination of single length buzz cut and beard/mustache shaping.</p></td>
+                    </tr>
+                </table>
+            </div>
+            <div className="service-hot">
+                <h1 className="service-hot-header">hot cuts</h1>
+                <table>
+                    <tr className="service-header">
+                        <td><h1>Classic Cut 20$</h1></td>
+                        <td><h1>Skin Fade 15$</h1></td>
+                    </tr>
+                    <tr className="service-data">
+                        <td><p>Relax while your barber achieves your tailored look. If you’re looking for a bald fade 
+                            or if your hair is currently longer than earlobe length please book from our other options.</p></td>
+                        <td><p>Also known as a bald fade or a zero fade, this service requires a little 
+                            extra time. Hair is faded from skin or “0” length to your desired length on top.</p></td>
+                    </tr>
+
+                    <tr className="service-header">
+                        <td><h1>Cut & Beard Trim 40$</h1></td>
+                        <td><h1> Skin Fade & Beard Trim 60$</h1></td>
+                    </tr>
+                    <tr className="service-data">
+                        <td><p>Combination of a classic cut and beard/mustache shaping.</p></td>
+                        <td><p>Combination of skin fade and beard/mustache shaping.</p></td>
                     </tr>
                 </table>
             </div>
