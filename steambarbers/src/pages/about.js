@@ -34,7 +34,7 @@ export function About()
                         <td><p><img src = {crew4} alt = "crew4" /></p></td>
                     </tr>
                     <tr className="crew-data">
-                        <td><h1>Yvonne</h1></td>
+                        <td><h1>Yvonne Katie</h1></td>
                         <td><h1>Nats Sebastian</h1></td>
                     </tr>
                 </table>
