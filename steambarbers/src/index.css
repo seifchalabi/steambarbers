@@ -493,9 +493,10 @@ footer{
 }
 
 .crew-header img {
-  height: 85%;
-  width: 85%;
+  height: 70%;
+  width: 70%;
   place-items: center;
+  border-radius: 50%;
 }
 
 .crew-container {
@@ -503,9 +504,15 @@ footer{
 }
 
 .crew-data h1 {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .crew {
   margin-top: 4rem;
+}
+.crew-data p{
+  text-align: center;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  margin-top: none;
 }

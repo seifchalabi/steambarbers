@@ -26,16 +26,28 @@ export function About()
                         <td><p><img src = {crew2} alt = "crew2" /></p></td>
                     </tr>
                     <tr className="crew-data">
-                        <td><h1>Micheal john</h1></td>
-                        <td><h1>Emma smith</h1></td>
+                        <td>
+                            <h1>Micheal john</h1>
+                            <p>Barber Shop Operator</p>
+                        </td>
+                        <td>
+                            <h1>Emma smith</h1>
+                            <p>Barber Instructor</p>
+                        </td>
                     </tr>
                     <tr className="crew-header">
                         <td><p><img src = {crew3} alt = "crew3" /></p></td>
                         <td><p><img src = {crew4} alt = "crew4" /></p></td>
                     </tr>
                     <tr className="crew-data">
-                        <td><h1>Yvonne</h1></td>
-                        <td><h1>Nats Sebastian</h1></td>
+                        <td>
+                            <h1>Yvonne Katie</h1>
+                            <p>Barber Apprentice</p>
+                        </td>
+                        <td>
+                            <h1>Nats Sebastian</h1>
+                            <p>Barber Stylist</p>
+                        </td>
                     </tr>
                 </table>
             </div>
