@@ -516,3 +516,9 @@ footer{
   margin-bottom: 2rem;
   margin-top: none;
 }
+.sevices-menu ,.service-container,.service-menu{
+  font-family: 'Abril Fatface', cursive;
+}
+.service-hot{
+  font-family: 'Abril Fatface', cursive;;
+}

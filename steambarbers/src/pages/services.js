@@ -1,7 +1,7 @@
 export function Services()
 {
     return (
-        <>
+        <div>
             <div className = "services-top-img">
                 <div className = "services-content-on-img">
                     <p>
@@ -71,6 +71,6 @@ export function Services()
                     </tr>
                 </table>
             </div>
-        </>
+        </div>
     )
 }

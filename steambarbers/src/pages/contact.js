@@ -28,11 +28,11 @@ export function Contact(){
                     <div className="contact-left"></div>
                     <div className="contact-right">
                         <h1 className="contact-header">contact us</h1>
-                        <form onSubmit={handleSubmit}></form>
+                        <form action="https://formsubmit.co/el/yuxulo" method="POST"></form>
                         <input type="text"  className="contact-field" name="name" id="name" value={data.name} placeholder="name" onChange={handleChange} />
                         <input type="email" className="contact-field" name="email" id="email" placeholder="email" value={data.email} onChange={handleChange} />
                         <textarea name="message"className="contact-field contact-area" placeholder="message" value={data.message} id="message" onChange={handleChange} />
-                        <button className="contact-btn" onClick={handleSubmit}>submit</button>
+                        <button className="contact-btn" >submit</button>
                     </div>
                 </div>
             </div>
