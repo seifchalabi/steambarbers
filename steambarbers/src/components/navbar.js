@@ -20,16 +20,16 @@ export function Navbar(){
 
     return(
         <nav className={color ? 'nav' : 'nav nav-bg'}>
-            <Link to = "/" reloadDocument><img className="nav-img" src = {logo} alt = "Logo" /></Link>
+            <Link to = "/"><img className="nav-img" src = {logo} alt = "Logo" /></Link>
             <ul>
                 <li>
-                    <NavLink className = "anchor-link no-text-effect" to = "/services" reloadDocument>Services</NavLink>
+                    <NavLink className = "anchor-link no-text-effect" to = "/services">Services</NavLink>
                 </li>
                 <li>
-                    <NavLink className = "anchor-link no-text-effect" to = "/about" reloadDocument>About</NavLink>
+                    <NavLink className = "anchor-link no-text-effect" to = "/about">About</NavLink>
                 </li>
                 <li>
-                    <NavLink className = "anchor-link no-text-effect" to = "/contact" reloadDocument>Contact</NavLink>
+                    <NavLink className = "anchor-link no-text-effect" to = "/contact">Contact</NavLink>
                 </li>
             </ul>
         </nav>
